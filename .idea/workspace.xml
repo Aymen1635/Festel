@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="79fba094-ac5a-4692-b7e9-872ea8a8e7ad" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qFJ1AB3FDpoVlaAi49oRjaeMV1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\acer\Downloads\Festel\festel\lib" />
+      <recent name="C:\Users\acer\Downloads\Festel\festel\lib\src\checkout" />
+      <recent name="C:\Users\acer\Downloads\Festel\festel\lib\src\screens" />
+      <recent name="C:\Users\acer\Downloads\Festel\festel\assets\images" />
+      <recent name="C:\Users\acer\Downloads\Festel\festel\fonts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\acer\Downloads\Festel\festel\lib\src" />
+      <recent name="C:\Users\acer\Downloads\Festel\festel\lib\src\checkout" />
+      <recent name="C:\Users\acer\Downloads\Festel\festel\assets\images" />
+      <recent name="C:\Users\acer\Downloads\Festel\festel\fonts" />
+      <recent name="C:\Users\acer\Downloads\Festel\festel\android\app" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="flutter pub upgrade" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Dart Command Line App.main">
+    <configuration name="main" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true">
+      <option name="filePath" value="$PROJECT_DIR$/festel/lib/main.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/festel" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Login" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LoginScreen.dart" type="FlutterRunConfigurationType" factoryName="Flutter" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/festel/lib/LoginScreen.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="main2.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main2" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/festel/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Dart Command Line App.main" />
+      <item itemvalue="Flutter.Login" />
+      <item itemvalue="Flutter.LoginScreen.dart" />
+      <item itemvalue="Flutter.app" />
+      <item itemvalue="Flutter.main2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79fba094-ac5a-4692-b7e9-872ea8a8e7ad" name="Default Changelist" comment="" />
+      <created>1616669186050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616669186050</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1637957935539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1637957935539" />
+  </component>
+</project>

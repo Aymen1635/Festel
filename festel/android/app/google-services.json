@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "955207034224",
+    "project_id": "festel",
+    "storage_bucket": "festel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955207034224:android:b3401c6f3cf058d242dbb5",
+        "android_client_info": {
+          "package_name": "com.example.festel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955207034224-6jja7d0e8o258hmhesohltku7v7qr5b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx_sDBVSJYHxXNp96TFsdjTmGG6KGVmXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955207034224-6jja7d0e8o258hmhesohltku7v7qr5b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
